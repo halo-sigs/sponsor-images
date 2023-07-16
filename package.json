@@ -1,0 +1,10 @@
+{
+  "name": "@halo-dev/sponsor-images",
+  "private": true,
+  "scripts": {
+    "build": "sponsorkit"
+  },
+  "devDependencies": {
+    "sponsorkit": "latest"
+  }
+}
