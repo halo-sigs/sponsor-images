@@ -1,6 +1,7 @@
 {
   "name": "@halo-dev/sponsor-images",
   "private": true,
+  "type": "module",
   "scripts": {
     "build": "sponsorkit"
   },
